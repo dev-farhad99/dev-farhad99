@@ -1,4 +1,4 @@
-<img src="https://media.licdn.com/dms/image/v2/D5616AQEmi4xpMGUt6A/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1675083806635?e=1756944000&v=beta&t=DQ1Ye-o18u3NxxfWLAcPzwpeA6bQhllu1qyf8mQaqbQ">
+<img src="[https://media.licdn.com/dms/image/v2/D5616AQEmi4xpMGUt6A/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1675083806635?e=1756944000&v=beta&t=DQ1Ye-o18u3NxxfWLAcPzwpeA6bQhllu1qyf8mQaqbQ](https://media.licdn.com/dms/image/v2/D5616AQEy5705ph09Gg/profile-displaybackgroundimage-shrink_350_1400/B56ZiDDU8vHQAg-/0/1754545345118?e=1757548800&v=beta&t=Wvu9XpbttsJGRHQEnm85ufYr3TjVbiSEzdu_Voof_OI)">
 <h1 align="center">Hello 👋, I'm Farhad Akter</h1>
 <h3 align="center"> Professional Web Designer and Developer with expertise in building modern, responsive, and high-converting websites across multiple platforms. I also specialize in Email Marketing to help businesses effectively engage their audience and drive conversions.</h3>
 
